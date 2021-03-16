@@ -1,0 +1,266 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.47653363645077,-25.56742701740896 ]
+    },
+    "properties": {
+    "nome":"PONTO 1",
+    "raio":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.480278,-25.568056 ]
+    },
+    "properties": {
+    "nome":"PONTO 2",
+    "raio":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.566944,-25.414167 ]
+    },
+    "properties": {
+    "nome":"PONTO 3",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.831111,-25.718611 ]
+    },
+    "properties": {
+    "nome":"PONTO 4",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.497342622606084,-25.37240459807051 ]
+    },
+    "properties": {
+    "nome":"PONTO 5",
+    "raio":163
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.78627558343578,-22.718252406214955 ]
+    },
+    "properties": {
+    "nome":"PONTO 6",
+    "raio":170
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.5125,-25.336667 ]
+    },
+    "properties": {
+    "nome":"PONTO 7",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.036944,-24.558056 ]
+    },
+    "properties": {
+    "nome":"PONTO 8",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -50.793611,-24.940833 ]
+    },
+    "properties": {
+    "nome":"PONTO 9",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.628333,-25.279167 ]
+    },
+    "properties": {
+    "nome":"PONTO 10",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -49.275,-25.498056 ]
+    },
+    "properties": {
+    "nome":"PONTO 11",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.312222,-20.071389 ]
+    },
+    "properties": {
+    "nome":"PONTO 12",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.445833,-21.678056 ]
+    },
+    "properties": {
+    "nome":"PONTO 13",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.716389,-23.6525 ]
+    },
+    "properties": {
+    "nome":"PONTO 14",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -34.933889,-8.112778 ]
+    },
+    "properties": {
+    "nome":"PONTO 15",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.122778,-22.754444 ]
+    },
+    "properties": {
+    "nome":"PONTO 16",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.4875,-25.419167 ]
+    },
+    "properties": {
+    "nome":"PONTO 17",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.554722,-25.5375 ]
+    },
+    "properties": {
+    "nome":"PONTO 18",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -50.132778,-25.152222 ]
+    },
+    "properties": {
+    "nome":"PONTO 19",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.888611,-23.598889 ]
+    },
+    "properties": {
+    "nome":"PONTO 20",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.225833,-22.124722 ]
+    },
+    "properties": {
+    "nome":"PONTO 21",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.654722,-25.445278 ]
+    },
+    "properties": {
+    "nome":"PONTO 22",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -49.307222,-25.547778 ]
+    },
+    "properties": {
+    "nome":"PONTO 23",
+    "raio":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.468333,-25.363333 ]
+    },
+    "properties": {
+    "nome":"PONTO 24",
+    "raio":350
+    }
+  }
+]
